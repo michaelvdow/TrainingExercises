@@ -1,4 +1,4 @@
-//Exercise to coplete: http://programmingbydoing.com/a/tic-tac-toe-oop.html
+//Exercise to complete: http://programmingbydoing.com/a/tic-tac-toe-oop.html
 public class TicTacToeClass
 {
 	// Instance Variables
